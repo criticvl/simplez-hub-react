@@ -1,0 +1,24 @@
+[
+  ["https://calculator-criticvl.netlify.app/", "./imgs/simple-calculator.png"],
+  [
+    "https://github.com/criticvl/simple-link-clipper",
+    "./imgs/simple-clipper.png"
+  ],
+  ["https://counter-criticvl.netlify.app/", "./imgs/simple-counter.png"],
+  ["https://notes-criticvl.netlify.app/", "./imgs/simple-notes.png"],
+  [
+    "https://number-game-criticvl.netlify.app/",
+    "./imgs/simple-numbers-game.png"
+  ],
+  [
+    "https://palette-generator-criticvl.netlify.app/",
+    "./imgs/simple-palette-generator.png"
+  ],
+  ["https://pong-criticvl.netlify.app/", "./imgs/simple-pong.png"],
+  ["https://quiz-criticvl.netlify.app/", "./imgs/simple-quiz-app.png"],
+  ["https://tictactoe-criticvl.netlify.app/", "./imgs/simple-tictactoe.png"],
+  [
+    "https://video-player-criticvl.netlify.app",
+    "./imgs/simple-video-player.png"
+  ]
+]
