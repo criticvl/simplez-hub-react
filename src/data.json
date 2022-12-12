@@ -20,5 +20,6 @@
   [
     "https://video-player-criticvl.netlify.app",
     "./imgs/simple-video-player.png"
-  ]
+  ],
+  ["https://weather-criticvl.netlify.app", "./imgs/simple-weather-app.png"]
 ]
